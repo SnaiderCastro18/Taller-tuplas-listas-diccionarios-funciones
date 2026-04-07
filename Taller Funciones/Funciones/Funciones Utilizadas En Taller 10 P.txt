@@ -1,0 +1,16 @@
+Funciones Utilizadas En Taller 10 Puntos:
+sum(): Suma automáticamente todos los números de una colección.
+
+len(): Cuenta la cantidad exacta de elementos que hay en una colección.
+
+max(): Encuentra y devuelve el valor más alto.
+
+min(): Encuentra y devuelve el valor más bajo.
+
+.append(): Agrega un dato nuevo al final de la lista.
+
+.remove(): Busca un dato por su nombre/valor y lo elimina de la lista.
+
+.items(): Extrae la Clave y su Valor al mismo tiempo para poder usarlos juntos en un ciclo for.
+
+del: Instrucción que destruye permanentemente una Clave y su Valor de un diccionario.

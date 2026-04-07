@@ -1,0 +1,7 @@
+Funciones Utilizadas:
+from ... import ...: Es la instrucción que conecta los dos archivos.
+.lower(): Convierte todo lo que escribe el usuario a minúsculas.
+.capitalize(): Toma una palabra y pone solo su primera letra en mayúscula.
+.items(): Extrae la Clave (el producto) y el Valor (el precio) del diccionario al mismo tiempo.
+.append(): Empuja un producto nuevo al final de la lista de tu carrito.
+sum(): Suma todo.
